@@ -73,8 +73,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bohdan4k&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&bypass_cache=777" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bohdan4k&layout=compact&langs_count=5&theme=dracula&locale=en&bypass_cache=777" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bohdan4k&show_icons=true&theme=dracula&locale=en&cache_seconds=60" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bohdan4k&layout=compact&langs_count=5&theme=dracula&locale=en&cache_seconds=60" height="150" alt="languages graph" />
 </div>
 
 ###

@@ -76,3 +76,9 @@
 </div>
 
 ###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=86&stroke=FFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###

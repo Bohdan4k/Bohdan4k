@@ -73,8 +73,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bohdan4k&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bohdan4k&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bohdan4k&theme=vue" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bohdan4k&theme=vue" height="150" alt="languages graph" />
 </div>
 
 ###

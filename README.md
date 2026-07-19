@@ -73,8 +73,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bohdan4k&show_icons=true&theme=dracula&locale=en&cache_seconds=60" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bohdan4k&layout=compact&langs_count=5&theme=dracula&locale=en&cache_seconds=60" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com/?user=Bohdan4k&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bohdan4k&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###

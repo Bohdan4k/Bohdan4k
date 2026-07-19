@@ -1,10 +1,6 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=102&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Welcome%F0%9F%91%8B%20&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=86&stroke=FFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">Hello World!!</h1>
 
 ###
 
@@ -75,8 +71,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/bohdan4k/bohdan4k/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/bohdan4k/bohdan4k/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/bohdan4k/bohdan4k/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/bohdan4k/bohdan4k/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
